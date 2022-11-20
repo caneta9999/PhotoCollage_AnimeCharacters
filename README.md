@@ -16,4 +16,4 @@ https://code-maven.com/create-images-with-python-pil-pillow<br/>
 https://stackoverflow.com/questions/24085996/how-i-can-load-a-font-file-with-pil-imagefont-truetype-without-specifying-the-ab<br/>
 https://www.programcreek.com/python/?CodeExample=draw+rectangle<br/>
 https://www.blog.pythonlibrary.org/2021/02/23/drawing-shapes-on-images-with-python-and-pillow/<br/>
-https://pillow.readthedocs.io/en/stable/reference/ImageFont.html<details>
+https://pillow.readthedocs.io/en/stable/reference/ImageFont.html</details>
